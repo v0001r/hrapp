@@ -1,0 +1,9 @@
+export const BRANCHES_CACHE_KEY = `BRACNHES`;
+export const TEAM_CACHE_KEY = `TEAMS`;
+export const PERMISSIONS_CACHE_KEY = `PERMISSIONS`;
+export const ROLE_CACHE_KEY = `ROLE`;
+export const STAFF_CACHE_KEY = `STAFF`;
+export const APPLY_LEAVE_CACHE_KEY = `APPLY_LEAVE`;
+export const SHIFT_CACHE_KEY = `SHIFT`;
+export const DEPARTMENT_CACHE_KEY = `DEPARTMENT`;
+export const DESIGNATION_CACHE_KEY = `DESIGNATION`;
